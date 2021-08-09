@@ -6,8 +6,7 @@
 
  <div>
   <a href="https://github.com/BrunoZielinski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoZielinski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoZielinski&layout=compact&langs_count=7&theme=dracula"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoZielinski&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </div>
 
@@ -37,5 +36,4 @@
  </a>
   
   ![Snake animation](https://github.com/BrunoZielinski/BrunoZielinski/blob/output/github-contribution-grid-snake.svg)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoZielinski&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
