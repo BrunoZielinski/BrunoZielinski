@@ -7,6 +7,7 @@
  <div>
   <a href="https://github.com/BrunoZielinski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoZielinski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoZielinski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div style="display: inline_block"><br>
