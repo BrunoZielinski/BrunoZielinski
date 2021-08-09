@@ -5,9 +5,7 @@
 - Estudano React
 
  <div>
-  <a href="https://github.com/BrunoZielinski">
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoZielinski&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-  </a>
 </div>
 
 <div style="display: inline_block"><br>
