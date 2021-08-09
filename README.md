@@ -5,7 +5,7 @@
 - Estudano React
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoZielinski&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoZielinski)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoZielinski&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
