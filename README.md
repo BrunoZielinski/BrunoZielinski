@@ -13,26 +13,7 @@
   <img align="center" height="45" width="45" alt="Bruno-TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" height="40" width="40" alt="Bruno-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" height="40" width="40" alt="Bruno-NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" height="45" width="45" alt="Bruno-Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
  </div>
  
  ##
- 
-<div>
-  <a href="https://www.instagram.com/brunozielinski/" target="_blank">
-   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-     target="_blank">
- </a>
- <a href="https://www.twitch.tv/brunokunbr" target="_blank">
-   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
- </a>
- <a href="mailto:brunozie26@gmail.com">
-   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
- </a>
- <a href="https://www.linkedin.com/in/brunozielinski/" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-     target="_blank">
- </a>
-  
-  ![Snake animation](https://github.com/BrunoZielinski/BrunoZielinski/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/BrunoZielinski/BrunoZielinski/blob/output/github-contribution-grid-snake.svg)
