@@ -1,19 +1,31 @@
-  ## Olá, 👋
+# Olá, eu sou o Bruno Zielinski 👋
 
-<div >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoZielinski&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoZielinski&layout=compact&theme=dracula"/>
+Desenvolvedor Full Stack especializado em ecossistemas **TypeScript**. Atualmente focado em construir aplicações escaláveis com Next.js, Fastify e Convex.
+
+---
+
+### 🛠️ Minha Stack Principal
+
+| Camada | Tecnologias |
+| :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000?style=for-the-badge&logo=shadcnui&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) ![Convex](https://img.shields.io/badge/Convex-EE485E?style=for-the-badge&logo=convex&logoColor=white) |
+| **Mobile** | ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+
+---
+
+### 📊 Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoZielinski&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoZielinski&layout=compact&theme=dracula" />
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" height="40" width="40" alt="Bruno-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="40" width="40" alt="Bruno-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="40" width="40" alt="Bruno-Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" height="40" width="40" alt="Bruno-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="45" width="45" alt="Bruno-TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" height="40" width="40" alt="Bruno-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" height="40" width="40" alt="Bruno-NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
- </div>
- 
- ##
+
+### 🐍 Contribuições
 ![Snake animation](https://github.com/BrunoZielinski/BrunoZielinski/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
