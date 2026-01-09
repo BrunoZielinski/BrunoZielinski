@@ -15,11 +15,10 @@ Desenvolvedor Full Stack especializado em ecossistemas **TypeScript**. Atualment
 ---
 
 ### 🐍 Contribuições
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BrunoZielinski/BrunoZielinski/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/BrunoZielinski/BrunoZielinski/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/BrunoZielinski/BrunoZielinski/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
 
 ---
 
