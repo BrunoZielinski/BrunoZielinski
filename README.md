@@ -14,13 +14,6 @@ Desenvolvedor Full Stack especializado em ecossistemas **TypeScript**. Atualment
 
 ---
 
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoZielinski&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoZielinski&layout=compact&theme=dracula" />
-</div>
-
 ### 🐍 Contribuições
 ![Snake animation](https://github.com/BrunoZielinski/BrunoZielinski/blob/output/github-contribution-grid-snake.svg)
 
